@@ -1,0 +1,25 @@
+body {
+    font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+    z-index: 1;
+    background: #dff0d8;
+    overflow-x: hidden;
+    padding: 8px 0;
+}
+
+.sidenav label a{
+    text-decoration: none;
+}
+
+.sidenav label {
+    padding: 6px 8px 6px 16px;
+    font-size: 17px;
+    color: #101010;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: #064579;
+}
